@@ -9,12 +9,6 @@
 
 ---
 
-## 🎥 Demo Video
-
-[▶️ Watch Demo](YOUR_VIDEO_LINK_HERE)
-
----
-
 ## ✨ What Makes Heart&Mind Special?
 
 Traditional e-commerce recommenders are black boxes that simply show "Customers who bought X also bought Y" without explanation. **Heart&Mind** is different:
